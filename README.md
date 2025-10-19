@@ -1,4 +1,4 @@
-# lab-3-
+
 name: hello-world
 on: push
 jobs:
